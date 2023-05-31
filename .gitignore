@@ -1,0 +1,5 @@
+# Project exclude paths
+/chap01-connection-config-practice-source/.gradle/
+/chap02-scope-lifecycle-practice-source/.gradle/
+/chap03-crud-practice-source/.gradle/
+/chap04-dynamic-sql-practice-source/.gradle/
