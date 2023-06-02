@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chap01-connection-config-practice-source" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chap01-connection-config-practice-source" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chap02-scope-lifecycle-practice-source" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chap02-scope-lifecycle-practice-source" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chap03-crud-practice-source" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chap03-crud-practice-source" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chap04-dynamic-sql-practice-source" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/chap04-dynamic-sql-practice-source" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
