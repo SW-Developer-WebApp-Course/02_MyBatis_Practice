@@ -69,13 +69,13 @@ public class MenuDTO implements java.io.Serializable{
 
     @Override
     public String toString() {
-        return "MenuDTO{" +
-                "code=" + code +
+        return "MenuDTO " +
+                "[ code=" + code +
                 ", name='" + name + '\'' +
                 ", price=" + price +
                 ", categoryCode=" + categoryCode +
                 ", orderableStatus='" + orderableStatus + '\'' +
-                '}';
+                ']';
     }
 
 
